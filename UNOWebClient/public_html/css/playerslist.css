@@ -1,0 +1,45 @@
+.show
+{
+   text-shadow:1px 1px 1px rgba(255,54,228,1);
+   font-weight:bold;
+   color:black;
+   background-color:red;
+   border: 2px solid red;
+   letter-spacing:1pt;
+   word-spacing:2pt;
+   font-size:30px;
+   text-align:left;
+   font-family:trebuchet MS, sans-serif;
+   line-height:1;
+   border-radius: 5px;
+}
+
+label.title
+{
+text-shadow:1px 1px 1px rgba(207,60,109,1);
+font-weight:bold;
+color:#120203;
+letter-spacing:2pt;
+word-spacing:0pt;
+font-size:30px;
+text-align:left;
+font-family:arial;
+line-height:1;
+}
+
+.imagecard
+{
+    height:  150px;
+    width: 100px;
+}
+
+img.people
+{
+    width: 40px;
+    height: 40px;
+}
+img
+{
+    width: 100%;
+    height: 250px;
+}

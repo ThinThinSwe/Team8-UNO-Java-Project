@@ -1,0 +1,32 @@
+label.title
+{
+text-shadow:1px 1px 1px rgba(207,60,109,1);
+font-weight:bold;
+color:#120203;
+letter-spacing:2pt;
+word-spacing:0pt;
+font-size:40px;
+text-align:left;
+font-family:helvetica,sans-serif;
+line-height:1;
+}
+
+td.message
+{
+   text-shadow:1px 1px 1px rgba(186,138,147,1);
+   font-weight:normal;
+   color:#380909;
+   letter-spacing:1pt;
+   word-spacing:3pt;
+   font-size:19px;
+   text-align:left;
+   font-family:trebuchet MS, sans-serif;
+   line-height:1;
+}
+
+
+img
+{
+    width: 100%;
+    height: 250px;
+}
